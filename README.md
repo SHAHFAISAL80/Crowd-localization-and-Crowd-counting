@@ -10,12 +10,6 @@ imageio >=1.18
 nni >=2.0 (python3 -m pip install --upgrade nni)
 
 
-
-
-Quickly test
-
-git clone https://github.com/dk-liang/FIDTM.git
-
 Download Dataset and Model
 Generate FIDT map ground-truth
 
